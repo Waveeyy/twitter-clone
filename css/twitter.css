@@ -1,0 +1,36 @@
+.body-black {
+  background-color: black;
+}
+
+.Home {
+  border: 3px solid rgba(77, 77, 77, 0.726);
+  border-width: 1px;
+}
+
+.tweet-butt {
+  height: 2.4rem;
+  width: 5rem;
+  border-radius: 40px;
+  background-color: rgba(13, 164, 235, 0.575);
+  color: rgb(165, 160, 160);
+  border: none;
+  font-weight: 500;
+}
+
+.mail {
+  height: 2px;
+  width: 23rem;
+  border-radius: 40px;
+  border: none;
+  padding: 1.3rem;
+  margin-left: 25px;
+  margin-top: 5px;
+  background-color: rgb(32, 36, 39);
+  color: rgb(141, 154, 161);
+  padding-left: 4rem;
+}
+
+.profile {
+  width: 28rem;
+  margin-left: 350px;
+}
